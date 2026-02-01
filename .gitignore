@@ -40,6 +40,10 @@
 *.sqlite
 *.config
 *.bak
+*.map 
 
 # SVN folders
 .svn
+
+# Folders
+build/
